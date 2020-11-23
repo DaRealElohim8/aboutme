@@ -11,6 +11,6 @@ Location: Maryland, USA.
 
 Job: Founder and Creator of the Da Real People Company and Employer.
 
-Contact link (Please copy):
+Contact link:
 
 https://forms.gle/fJADfHA8zuZXzUPr6
