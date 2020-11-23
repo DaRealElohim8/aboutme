@@ -1,9 +1,16 @@
-# aboutme
-All about me. Including a contact page for any questions. Welcome visitor!
+# About Me
+Hello visitor!
 
-Information, Name: Elohim Obambe
-Skills: Good at making music.
-Job: Founder of the Da Real People company and Employer.
-Location: Maryland, United States. 
-Contact link: https://bit.ly/3m27pxB . 
-Thanks for visiting!
+Info:
+
+Name, Elohim Obambe.
+
+Skills: Making music, developing,etc.
+
+Location: Maryland, USA.
+
+Job: Founder and Creator of the Da Real People Company and Employer.
+
+Contact link (Please copy):
+
+https://forms.gle/fJADfHA8zuZXzUPr6
